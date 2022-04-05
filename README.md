@@ -1,6 +1,6 @@
 # Java_App
-사용언어 : Java
-Database : FireStore
+- 사용언어 : Java
+- Database : FireStore
 
 ### 기능
 - 회원가입
