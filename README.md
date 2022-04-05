@@ -1,5 +1,6 @@
 # Java_App
-자바를 사용해서 만든 어플리케이션 프로젝트
+사용언어 : Java
+Database : FireStore
 
 ### 기능
 - 회원가입
